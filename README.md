@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amar Kaushal
+# Hi, I'm Amar Kaushal
 
 🎓 Computer Science Aspirant | MERN Developer   
 🚀 Currently building projects in **HTML, CSS, and JS** & Learn **DSA**
