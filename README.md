@@ -11,5 +11,5 @@
 ⭐ [Practice-Projects](https://github.com/AmarKaushal/Practice-Projects)
 
 ## 📫 Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/amarkaushal/]
-- GitHub: [AmarKaushal](https://github.com/AmarKaushal)
+- LinkedIn: [Amar-Kaushal](https://www.linkedin.com/in/amarkaushal/)
+- GitHub: [Amar-Kaushal](https://github.com/AmarKaushal)
